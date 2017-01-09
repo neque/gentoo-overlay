@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>                                                                                                     
+<repositories version="1.0">
+	<repo priority="50" quality="experimental" status="unofficial">
+		<name>neque</name>
+		<description>Custom stuff</description>
+		<homepage>http://github.com/neque/</homepage>
+		<source type="git">git://github.com/neque/gentoo-overlay.git</source>
+	</repo>
+</repositories>
